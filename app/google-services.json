@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420682016381",
+    "project_id": "crudkotlin1",
+    "storage_bucket": "crudkotlin1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420682016381:android:ba743f69b486178a6cf314",
+        "android_client_info": {
+          "package_name": "com.fonda.crudkotlin1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420682016381-fr817ehvepdv804qi75ik7g9bdm0v5lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xdkECg8GVv4XCdxuReQN84fzdCdE89o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420682016381-fr817ehvepdv804qi75ik7g9bdm0v5lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

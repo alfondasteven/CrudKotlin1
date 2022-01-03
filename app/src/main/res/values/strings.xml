@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrudKotlin1</string>
+    <string name="no_account">Not have account/ Sign Up</string>
+</resources>
